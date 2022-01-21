@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RPAOnlineDesktop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RPAOnlineDesktop_jar</output-path>
+    <root id="archive" name="RPAOnlineDesktop.jar">
+      <element id="module-output" name="RPAOnlineDesktop" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/org.json.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
